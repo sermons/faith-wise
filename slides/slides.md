@@ -16,8 +16,38 @@
 + Demonstrates **Wisdom** <span class="ref">(3:13-18)</span>
 
 ---
-13 Who is wise and understanding among you? Let them show it by their good life, by deeds done in the humility that comes from wisdom. 14 But if you harbor bitter envy and selfish ambition in your hearts, do not boast about it or deny the truth. 15 Such “wisdom” does not come down from heaven but is earthly, unspiritual, demonic. 16 For where you have envy and selfish ambition, there you find disorder and every evil practice.
-17 But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere. 18 Peacemakers who sow in peace reap a harvest of righteousness.
+<span class="ref">13</span>
+Who is wise and understanding among you?
+
+Let them show it by their good life, <br/>
+by deeds done in the humility <br/>
+that comes from wisdom.
+
+---
+<span class="ref">14</span>
+But if you harbor bitter **envy** and <br/>
+selfish **ambition** in your hearts, <br/>
+do not **boast** about it or deny the **truth**.
+
+<span class="ref">15</span>
+Such “wisdom” does not come down from heaven <br/>
+but is **earthly**, unspiritual, demonic.
+
+<span class="ref">16</span>
+For where you have envy and selfish ambition, <br/>
+there you find **disorder** and every **evil** practice.
+
+---
+<span class="ref">17</span>
+But the wisdom that comes from **heaven** <br/>
+is first of all **pure**; then **peace**-loving, <br/>
+**considerate**, **submissive**, <br/>
+full of **mercy** and good **fruit**, <br/>
+**impartial** and **sincere**.
+
+<span class="ref">13</span>
+**Peacemakers** who sow in peace  <br/>
+reap a **harvest** of righteousness.
 
 
 ---
