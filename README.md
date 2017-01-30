@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Faith that Demonstrates Wisdom (6/10)
+## James 3:13-18
 
-[![Travis-CI build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node dependencies](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node dev status](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel#info=devDependencies)
+[![Travis-CI build status](https://travis-ci.org/sermons/faith-wise.svg)](https://travis-ci.org/sermons/faith-wise)
+[![Node dependencies](https://david-dm.org/sermons/faith-wise.svg)](https://david-dm.org/sermons/faith-wise)
+[![Node dev status](https://david-dm.org/sermons/faith-wise/dev-status.svg)](https://david-dm.org/sermons/faith-wise#info=devDependencies)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 

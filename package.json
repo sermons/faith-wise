@@ -1,13 +1,13 @@
 {
-  "name": "@sermons/reveal-skel",
-  "version": "1.2.0",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
-  "keywords": ["slides", "lectures", "talks", "ppt"],
+  "name": "@sermons/faith-wise",
+  "version": "1.2.1",
+  "repository": "sermons/faith-wise",
+  "description": "James 3:13-18 Faith that Demonstrates Wisdom",
+  "keywords": ["slides", "sermon", "talks", "ppt"],
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "faith-wise.seanho.com",
+    "cname": "faith-wise.seanho.com",
     "multiplex": {
       "url": "https://mp-seanho00.rhcloud.com:8443/",
       "id": "22bc761ffc97809b"
@@ -18,9 +18,9 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01"
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Coquitlam",
+        "date": "2017-02-12"
       }
     ],
     "slides": [ "slides/sample.md" ],
