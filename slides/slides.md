@@ -53,9 +53,9 @@ reap a **harvest** of righteousness.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 ## Faith that Demonstrates Wisdom
-+ **One** <span class="ref">(3:13)</span>
-+ **Two** <span class="ref">(3:14-16)</span>
-+ **Three** <span class="ref">(3:17-18)</span>
++ **Humility** <span class="ref">(3:13)</span>
++ **Ambition** <span class="ref">(3:14-16)</span>
++ **Peacemaking** <span class="ref">(3:17-18)</span>
 
 ---
 <span class="ref">13</span>
