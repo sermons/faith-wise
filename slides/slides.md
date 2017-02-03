@@ -1,3 +1,4 @@
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 # Faith that Demonstrates Wisdom
 ## James 3:13-18
 
@@ -50,6 +51,7 @@ full of **mercy** and good **fruit**, <br/>
 reap a **harvest** of righteousness.
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 ## Faith that Demonstrates Wisdom
 + **One** <span class="ref">(3:13)</span>
 + **Two** <span class="ref">(3:14-16)</span>
@@ -67,7 +69,6 @@ that comes from wisdom.
 # Q1
 
 ---
-
 ## outline
 
 ---
@@ -104,3 +105,13 @@ reap a **harvest** of righteousness.
 
 ---
 # Q3
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+<span class="ref">13</span>
+**Peacemakers** who sow in peace  <br/>
+reap a **harvest** of righteousness.
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" class="empty" -->
+
