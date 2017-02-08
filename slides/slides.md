@@ -65,6 +65,13 @@ Let them show it by their good **life**, <br/>
 by **deeds** done in the **humility** <br/>
 that comes from wisdom.
 
+>>>
++ *wise*:
+  + *understanding*: put 2+2
++ *good life*: doing good/right in everyday life
+  + *deeds*: not just words
++ *humility*:
+
 ---
 # Q1
 
