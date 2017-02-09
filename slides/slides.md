@@ -70,7 +70,7 @@ that comes from wisdom.
   + *understanding*: put 2+2
 + *good life*: doing good/right in everyday life
   + *deeds*: not just words
-+ *humility*:
++ *humility*: gentle, meek
 
 ---
 # Q1
