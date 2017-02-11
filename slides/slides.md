@@ -46,7 +46,7 @@ is first of all **pure**; then **peace**-loving, <br/>
 full of **mercy** and good **fruit**, <br/>
 **impartial** and **sincere**.
 
-<span class="ref">13</span>
+<span class="ref">18</span>
 **Peacemakers** who sow in peace  <br/>
 reap a **harvest** of righteousness.
 
@@ -63,7 +63,9 @@ Who is **wise** and **understanding** among you?
 
 >>>
 + *wise*:
-+ *understanding*: put 2+2
++ *understanding* (ἐπιστήμων):
+  + put [self, mind] **standing** upon
+  + consider, investigate
 + do you believe yourself to be wise? 
 
 ---
@@ -88,16 +90,20 @@ we who **teach** will be judged more **strictly**.
 
 ---
 <span class="ref">13</span>
-Let them show it by their good **life**, <br/>
+Let them **show** it by their good **life**, <br/>
 by **deeds** done in the **humility** <br/>
 that comes from wisdom.
 
 >>>
++ *show*, don't **tell**:
+  + look at me, so wise! 
 + *good life*: not life of **luxury**
   + but life of **virtue** (καλῆς) noble
   + ἀναστροφῆς: everyday
 + *deeds*: not just words
-+ *humility*: gentle, meek
++ *humility* (ἐν πραΰτητι): gentle, mild
+  + tame, friendly
+  + **meek**: strength used to accommodate the weak
 
 ---
 # Q1
@@ -124,14 +130,17 @@ but is **earthly**, **unspiritual**, **demonic**.
 
 <span class="ref">16</span>
 For where you have envy and selfish ambition, <br/>
-there you find **disorder** and every **evil** practice.
+there you find **disorder** and every **evil practice**.
 
 >>>
-+ *earthly*: of earth (vs heaven)
++ *earthly*: of **earth** (vs heaven)
 + *unspiritual*: **psyche**, life
   + common with animals
-  + nature, instinct
-+ *demonic*:
+  +  of **nature**, instinct
++ *demonic*: of **demons**
++ *disorder*: **instability**
+  + no moral **compass**
++ *evil practise*: **deeds**
 
 ---
 # Q2
@@ -146,10 +155,6 @@ is first of all **pure**; then **peace**-loving, <br/>
 **considerate**, **submissive**, <br/>
 full of **mercy** and good **fruit**, <br/>
 **impartial** and **sincere**.
-
-<span class="ref">13</span>
-**Peacemakers** who sow in peace  <br/>
-reap a **harvest** of righteousness.
 
 >>>
 + *pure*: **holy**
@@ -167,13 +172,23 @@ reap a **harvest** of righteousness.
   + **hypocrisy**, playing part
 
 ---
+<span class="ref">18</span>
+**Peacemakers** who **sow** in peace  <br/>
+reap a **harvest** of righteousness.
+
+>>>
++ a **fruit** of righteousness
+  + in peace is **sown**
+  + by those who **do** peace
+
+---
 # Q3
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 <span class="ref">13</span>
 **Peacemakers** who sow in peace  <br/>
-reap a **harvest** of righteousness.
+reap a harvest of **righteousness**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" class="empty" -->
