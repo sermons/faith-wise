@@ -55,21 +55,46 @@ reap a **harvest** of righteousness.
 ## Faith that Demonstrates Wisdom
 + **Humility** <span class="ref">(3:13)</span>
 + **Ambition** <span class="ref">(3:14-16)</span>
-+ **Peacemaking** <span class="ref">(3:17-18)</span>
++ **Peace** <span class="ref">(3:17-18)</span>
 
 ---
 <span class="ref">13</span>
 Who is **wise** and **understanding** among you?
 
+>>>
++ *wise*:
++ *understanding*: put 2+2
++ do you believe yourself to be wise? 
+
+---
+<span class="ref">3:1</span>
+Not many of you should become **teachers**, <br/>
+my fellow believers,
+
+because you know that <br/>
+we who **teach** will be judged more **strictly**.
+
+>>>
++ **pride**:
++ ch1: **listeners** of Word
+  + but not **doers**
++ ch2: envy the **rich**
+  + but insult the **poor**
++ ch3: believe self **teacher**
+  + but not tame **tongue**
++ ch4: **conflict**
+
+---
+<span class="ref">13</span>
 Let them show it by their good **life**, <br/>
 by **deeds** done in the **humility** <br/>
 that comes from wisdom.
 
 >>>
-+ *wise*:
-  + *understanding*: put 2+2
-+ *good life*: doing good/right in everyday life
-  + *deeds*: not just words
++ *good life*: not life of **luxury**
+  + but life of **virtue** (καλῆς) noble
+  + ἀναστροφῆς: everyday
++ *deeds*: not just words
 + *humility*: gentle, meek
 
 ---
