@@ -96,16 +96,17 @@ that comes from wisdom.
 
 >>>
 + *show*, don't **tell**:
-  + look at me, so wise! 
+  + look at me, so wise!
+  + show his **deeds**
 + *good life*: not life of **luxury**
   + but life of **virtue** (καλῆς) noble
   + ἀναστροφῆς: everyday
-+ *deeds*: not just words
 + *humility* (ἐν πραΰτητι): gentle, mild
   + tame, friendly
   + **meek**: strength used to accommodate the weak
 
 ---
+<!-- .slide: data-background-color="white" -->
 # Q1
 
 ---
@@ -143,6 +144,7 @@ there you find **disorder** and every **evil practice**.
 + *evil practise*: **deeds**
 
 ---
+<!-- .slide: data-background-color="white" -->
 # Q2
 
 ---
@@ -172,6 +174,13 @@ full of **mercy** and good **fruit**, <br/>
   + **hypocrisy**, playing part
 
 ---
+<span class="ref">1:5</span>
+If any of you **lacks wisdom**, <br/>
+you should **ask God**, <br/>
+who gives **generously** to all without finding **fault**, <br/>
+and it will be **given** to you.
+
+---
 <span class="ref">18</span>
 **Peacemakers** who **sow** in peace  <br/>
 reap a **harvest** of righteousness.
@@ -182,6 +191,7 @@ reap a **harvest** of righteousness.
   + by those who **do** peace
 
 ---
+<!-- .slide: data-background-color="white" -->
 # Q3
 
 ---
