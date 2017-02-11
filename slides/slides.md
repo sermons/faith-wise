@@ -84,13 +84,35 @@ But if you harbor bitter **envy** and <br/>
 selfish **ambition** in your hearts, <br/>
 do not **boast** about it or deny the **truth**.
 
+>>>
++ *envy*: **zeal**, jealousy, passionate desire over
+  + cleansing of **temple**
+  + *bitter*: Heb12:15 **root**
++ *selfish ambition*: day-labourer
+
+---
+## Hebrews 12:15 <span class="ref">(NASB)</span>
+See to it that no one
+comes **short** of the **grace of God**;
+
+that no **root of bitterness**
+springing up causes **trouble**
+
+---
 <span class="ref">15</span>
 Such “wisdom” does not come down from heaven <br/>
-but is **earthly**, unspiritual, **demonic**.
+but is **earthly**, **unspiritual**, **demonic**.
 
 <span class="ref">16</span>
 For where you have envy and selfish ambition, <br/>
 there you find **disorder** and every **evil** practice.
+
+>>>
++ *earthly*: of earth (vs heaven)
++ *unspiritual*: **psyche**, life
+  + common with animals
+  + nature, instinct
++ *demonic*:
 
 ---
 # Q2
@@ -109,6 +131,21 @@ full of **mercy** and good **fruit**, <br/>
 <span class="ref">13</span>
 **Peacemakers** who sow in peace  <br/>
 reap a **harvest** of righteousness.
+
+>>>
++ *pure*: **holy**
++ *peace-loving*: peaceable, of peace
++ *considerate* (ἐπιεικής): equitable
+  + lenience to **letter** of law
+  + to uphold **spirit** of law
++ *submissive* (εὐπειθής): easily persuaded
+  + seeing the truth, yields
++ *mercy* + *fruit*
++ *impartial* (ἀδιάκριτος): w/o:
+  + separation, distinction, judgment
+  + wavering, ambiguity
++ *sincere* (ἀνυπόκριτος): w/o:
+  + **hypocrisy**, playing part
 
 ---
 # Q3
