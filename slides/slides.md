@@ -75,7 +75,7 @@ because you know that <br/>
 we who **teach** will be judged more **strictly**.
 
 >>>
-+ **pride**:
++ **pride**
 + ch1: **listeners** of Word
   + but not **doers**
 + ch2: envy the **rich**
@@ -83,6 +83,8 @@ we who **teach** will be judged more **strictly**.
 + ch3: believe self **teacher**
   + but not tame **tongue**
 + ch4: **conflict**
++ believe self **wise**?
+  + true **test** of wisdom:
 
 ---
 <span class="ref">13</span>
@@ -114,14 +116,6 @@ do not **boast** about it or deny the **truth**.
   + cleansing of **temple**
   + *bitter*: Heb12:15 **root**
 + *selfish ambition*: day-labourer
-
----
-## Hebrews 12:15 <span class="ref">(NASB)</span>
-See to it that no one
-comes **short** of the **grace of God**;
-
-that no **root of bitterness**
-springing up causes **trouble**
 
 ---
 <span class="ref">15</span>
