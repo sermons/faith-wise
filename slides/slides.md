@@ -193,7 +193,7 @@ full of **mercy** and good **fruit**, <br/>
   + (Lk10:37) good **Samaritan**
 + *good fruit*: works
 + *impartial* (ἀδιάκριτος): w/o:
-  + separation, **distinction**, judgment
+  + separation, distinction, **prejudice**
   + **wavering**, ambiguity
 + *sincere* (ἀνυπόκριτος): w/o:
   + **hypocrisy**, playing part
