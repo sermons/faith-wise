@@ -64,6 +64,8 @@ reap a **harvest** of righteousness.
 + **Peacemaking** <span class="ref">(3:17-18)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
+
 <span class="ref">13</span>
 Who is **wise** and **understanding** among you?
 
@@ -80,6 +82,8 @@ Who is **wise** and **understanding** among you?
 + do you believe yourself to be wise? 
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+
 <span class="ref">3:1</span>
 Not many of you should become **teachers**, <br/>
 my fellow believers,
@@ -101,6 +105,8 @@ we who **teach** will be judged more **strictly**.
   + true **test** of wisdom:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
+
 <span class="ref">13</span>
 Let them **show** it by their good **life**, <br/>
 by **deeds** done in the **humility** <br/>
@@ -131,6 +137,8 @@ that comes from wisdom.
 + **Peacemaking** <span class="ref">(3:17-18)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
+
 <span class="ref">14</span>
 But if you harbor bitter **envy** and <br/>
 selfish **ambition** in your hearts, <br/>
@@ -155,6 +163,7 @@ do not **boast** about it or deny the **truth**.
   + you've believed in a **lie**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ndsRLeQBlsA-dark_clouds.jpg" -->
 <span class="ref">15</span>
 Such “wisdom” does not come down from heaven <br/>
 but is **earthly**, **unspiritual**, **demonic**.
@@ -185,6 +194,8 @@ there you find **disorder** and every **evil practice**.
 + **Peacemaking** <span class="ref">(3:17-18)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+
 <span class="ref">17</span>
 But the wisdom that comes from **heaven** <br/>
 is first of all **pure**; then **peace**-loving, <br/>
@@ -210,6 +221,8 @@ impartial and sincere.
   + **yields** to truth / reason
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+
 <span class="ref">17</span>
 But the wisdom that comes from heaven <br/>
 is first of all *pure*; then *peace-loving*, <br/>
@@ -243,6 +256,8 @@ and it will be **given** to you.
 + 4 do not have because do not ask
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+
 <span class="ref">18</span>
 **Peacemakers** who **sow** in peace  <br/>
 reap a **harvest** of righteousness.
