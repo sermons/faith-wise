@@ -96,14 +96,15 @@ by **deeds** done in the **humility** <br/>
 that comes from wisdom.
 
 >>>
-+ *show*, don't **tell**:
++ *show*: not show **wisdom**
   + look at me, so wise!
-  + show his **deeds**
-+ *good life*: not life of **luxury**
-  + but life of **virtue** (καλῆς) noble
-  + ἀναστροφῆς: everyday
+  + but: show your **deeds**
++ *good life* (καλῆς ἀναστροφῆς):
+  + not life of **luxury**
+  + but life of **virtue**: noble
+  + out of **everyday** life
 + *humility* (ἐν πραΰτητι): gentle, mild
-  + tame, friendly
+  + tame, **friendly**
   + **meek**: strength used to accommodate the weak
 
 ---
@@ -120,10 +121,22 @@ selfish **ambition** in your hearts, <br/>
 do not **boast** about it or deny the **truth**.
 
 >>>
-+ *envy*: **zeal**, jealousy, passionate desire over
++ even the **wise** may have this
++ *envy*: **zeal**, jealousy
+  + not: want what **others** have
+  + but: passionate **desire** over
   + cleansing of **temple**
   + *bitter*: Heb12:15 **root**
-+ *selfish ambition*: day-labourer
++ *selfish ambition* (ἐριθεία): **day-labourer**
+  + **debase** self for gain
+  + not just **selfishness**
+  + misplaced **priorities**
+  + exchange **higher** things
+  + for base profit
++ *boast*: bc wrong **values**
++ *deny*: **lie** against
++ if you think this is **wisdom**,
+  + you've been **deceived**:
 
 ---
 <span class="ref">15</span>
@@ -161,6 +174,7 @@ full of **mercy** and good **fruit**, <br/>
 
 >>>
 + *pure*: **holy**, set apart
+  + what does **wisdom** have to do with **holiness**?
 + *peace-loving*: peaceful
   + *shalom*: right, whole **relationship**
   + w/God, w/others
