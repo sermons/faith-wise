@@ -134,7 +134,7 @@ do not **boast** about it or deny the **truth**.
   + exchange **higher** things
   + for base profit
 + *boast*: bc wrong **values**
-+ *deny*: **lie** against
+  + *deny*: **lie** against
 + if you think this is **wisdom**,
   + you've been **deceived**:
 
@@ -169,8 +169,8 @@ there you find **disorder** and every **evil practice**.
 But the wisdom that comes from **heaven** <br/>
 is first of all **pure**; then **peace**-loving, <br/>
 **considerate**, **submissive**, <br/>
-full of **mercy** and good **fruit**, <br/>
-**impartial** and **sincere**.
+full of mercy and good fruit, <br/>
+impartial and sincere.
 
 >>>
 + *pure*: **holy**, set apart
@@ -185,6 +185,16 @@ full of **mercy** and good **fruit**, <br/>
   + to uphold **spirit** of law
 + *submissive* (εὐπειθής): easily persuaded
   + **yields** to truth / reason
+
+---
+<span class="ref">17</span>
+But the wisdom that comes from heaven <br/>
+is first of all *pure*; then *peace-loving*, <br/>
+*considerate*, *submissive*, <br/>
+full of **mercy** and good **fruit**, <br/>
+**impartial** and **sincere**.
+
+>>>
 + *mercy*:
   + **emotion** of compassion, sympathy
   + manifest as **action**:
