@@ -4,8 +4,8 @@
 
 ---
 <!-- .slide: data-background-color="white" -->
-# Who is **wise**?
-# What does wisdom <br/> **look** like?
+# What does **wisdom**
+# look like?
 
 >>>
 + Einstein? Bill Gates? 
