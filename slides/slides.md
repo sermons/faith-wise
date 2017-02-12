@@ -80,6 +80,7 @@ we who **teach** will be judged more **strictly**.
 + **pride**
 + ch1: **listeners** of Word
   + but not **doers**
+  + 1:26 consider self **religious**
 + ch2: envy the **rich**
   + but insult the **poor**
 + ch3: believe self **teacher**
@@ -159,17 +160,27 @@ full of **mercy** and good **fruit**, <br/>
 **impartial** and **sincere**.
 
 >>>
-+ *pure*: **holy**
-+ *peace-loving*: peaceable, of peace
-+ *considerate* (ἐπιεικής): equitable
++ *pure*: **holy**, set apart
++ *peace-loving*: peaceful
+  + *shalom*: right, whole **relationship**
+  + w/God, w/others
++ *considerate* (ἐπιεικής): **meek**
+  + kind, clemency
+  + of **judge** / king / in power
   + lenience to **letter** of law
   + to uphold **spirit** of law
 + *submissive* (εὐπειθής): easily persuaded
-  + seeing the truth, yields
-+ *mercy* + *fruit*
+  + **yields** to truth / reason
++ *mercy*:
+  + **emotion** of compassion, sympathy
+  + manifest as **action**:
+  + withholding due **punishment**
+  + and/or extending **aid**
+  + (Lk10:37) good **Samaritan**
++ *good fruit*: works
 + *impartial* (ἀδιάκριτος): w/o:
-  + separation, distinction, judgment
-  + wavering, ambiguity
+  + separation, **distinction**, judgment
+  + **wavering**, ambiguity
 + *sincere* (ἀνυπόκριτος): w/o:
   + **hypocrisy**, playing part
 
@@ -179,6 +190,10 @@ If any of you **lacks wisdom**, <br/>
 you should **ask God**, <br/>
 who gives **generously** to all without finding **fault**, <br/>
 and it will be **given** to you.
+
+>>>
++ wisdom **attainable**?
++ 4 do not have because do not ask
 
 ---
 <span class="ref">18</span>
