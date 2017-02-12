@@ -4,7 +4,13 @@
 
 ---
 <!-- .slide: data-background-color="white" -->
-# Q0
+# Who is **wise**?
+# What does wisdom **look** like?
+
+>>>
++ Einstein? Bill Gates? 
++ long-bearded sage on mountaintop? 
++ silent patriarch who closes a noisy debate with a single word? 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
@@ -53,9 +59,9 @@ reap a **harvest** of righteousness.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 ## Faith that Demonstrates Wisdom
-+ **Humility** <span class="ref">(3:13)</span>
-+ **Ambition** <span class="ref">(3:14-16)</span>
-+ **Peace** <span class="ref">(3:17-18)</span>
++ **Practise**, not Pretense <span class="ref">(3:13)</span>
++ Bitter **Passion** <span class="ref">(3:14-16)</span>
++ **Peacemaking** <span class="ref">(3:17-18)</span>
 
 ---
 <span class="ref">13</span>
@@ -63,6 +69,11 @@ Who is **wise** and **understanding** among you?
 
 >>>
 + *wise*:
+  + ancient Gr: mastery of **skill**
+  + **practical**, not theoretical
+  + can be **taught** / learned
+  + but true wisdom **gift** of gods
+  + Plato: know **being**, self
 + *understanding* (ἐπιστήμων):
   + put [self, mind] **standing** upon
   + consider, investigate
@@ -103,16 +114,21 @@ that comes from wisdom.
   + not life of **luxury**
   + but life of **virtue**: noble
   + out of **everyday** life
-+ *humility* (ἐν πραΰτητι): gentle, mild
++ *humility* (ἐν πραΰτητι): **gentle**, mild
   + tame, **friendly**
   + **meek**: strength used to accommodate the weak
++ show, out of your life of virtue, your deeds in wisdom's humility
 
 ---
 <!-- .slide: data-background-color="white" -->
-# Q1
+# **gentle deeds** or **proud words**?
 
 ---
-## outline
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+## Faith that Demonstrates Wisdom
++ **Practise**, not Pretense <span class="ref">(3:13)</span>
++ Bitter **Passion** <span class="ref">(3:14-16)</span>
++ **Peacemaking** <span class="ref">(3:17-18)</span>
 
 ---
 <span class="ref">14</span>
@@ -122,7 +138,7 @@ do not **boast** about it or deny the **truth**.
 
 >>>
 + even the **wise** may have this
-+ *envy*: **zeal**, jealousy
++ *envy*: seek, **zeal**, jealousy
   + not: want what **others** have
   + but: passionate **desire** over
   + cleansing of **temple**
@@ -136,7 +152,7 @@ do not **boast** about it or deny the **truth**.
 + *boast*: bc wrong **values**
   + *deny*: **lie** against
 + if you think this is **wisdom**,
-  + you've been **deceived**:
+  + you've believed in a **lie**:
 
 ---
 <span class="ref">15</span>
@@ -159,10 +175,14 @@ there you find **disorder** and every **evil practice**.
 
 ---
 <!-- .slide: data-background-color="white" -->
-# Q2
+# Have I confused **passion** and **ambition** with **wisdom**? 
 
 ---
-## outline
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+## Faith that Demonstrates Wisdom
++ *Practise*, not Pretense <span class="ref">(3:13)</span>
++ Bitter *Passion* <span class="ref">(3:14-16)</span>
++ **Peacemaking** <span class="ref">(3:17-18)</span>
 
 ---
 <span class="ref">17</span>
@@ -173,6 +193,9 @@ full of mercy and good fruit, <br/>
 impartial and sincere.
 
 >>>
++ *comes from above*: 
+  + not virtues to **chase** after
+  + but **recognise** God's gift
 + *pure*: **holy**, set apart
   + what does **wisdom** have to do with **holiness**?
 + *peace-loving*: peaceful
@@ -231,7 +254,11 @@ reap a **harvest** of righteousness.
 
 ---
 <!-- .slide: data-background-color="white" -->
-# Q3
+# Do I **recognise** the **peace**-makers, the **meek**, the **merciful**?
+
+>>>
++ who do I know who is peaceable? 
++ that is true wisdom
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
