@@ -127,7 +127,9 @@ that comes from wisdom.
 
 ---
 <!-- .slide: data-background-color="white" -->
-# **gentle deeds** or **proud words**?
+# As I gain wisdom,
+# Am I more **gentle** in **deeds**,
+# or  more **proud** in **words**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
@@ -282,5 +284,4 @@ reap a **harvest** of righteousness.
 reap a harvest of **righteousness**.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" class="empty" -->
-
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/uns
