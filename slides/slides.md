@@ -151,12 +151,12 @@ do not **boast** about it or deny the **truth**.
 + *envy*: seek, **zeal**, jealousy
   + not: want what **others** have
   + but: passionate **desire** over
-  + cleansing of **temple**
+    + e.g., cleansing of **temple**
   + *bitter*: Heb12:15 **root**
 + *selfish ambition* (ἐριθεία): **day-labourer**
   + **debase** self for gain
-  + not just **selfishness**
-  + misplaced **priorities**
+  + not just **selfishness**,
+  + but misplaced **priorities**:
   + exchange **higher** things
   + for base profit
 + *boast*: bc wrong **values**
@@ -247,6 +247,8 @@ full of **mercy** and good **fruit**, <br/>
   + **hypocrisy**, playing part
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+
 <span class="ref">1:5</span>
 If any of you **lacks wisdom**, <br/>
 you should **ask God**, <br/>
@@ -284,4 +286,5 @@ reap a **harvest** of righteousness.
 reap a harvest of **righteousness**.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/uns
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" class="empty" -->
+
