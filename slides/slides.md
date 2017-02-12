@@ -5,7 +5,7 @@
 ---
 <!-- .slide: data-background-color="white" -->
 # Who is **wise**?
-# What does wisdom **look** like?
+# What does wisdom <br/> **look** like?
 
 >>>
 + Einstein? Bill Gates? 
@@ -64,7 +64,7 @@ reap a **harvest** of righteousness.
 + **Peacemaking** <span class="ref">(3:17-18)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 
 <span class="ref">13</span>
 Who is **wise** and **understanding** among you?
@@ -82,7 +82,7 @@ Who is **wise** and **understanding** among you?
 + do you believe yourself to be wise? 
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
 
 <span class="ref">3:1</span>
 Not many of you should become **teachers**, <br/>
@@ -105,7 +105,7 @@ we who **teach** will be judged more **strictly**.
   + true **test** of wisdom:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 
 <span class="ref">13</span>
 Let them **show** it by their good **life**, <br/>
@@ -128,8 +128,8 @@ that comes from wisdom.
 ---
 <!-- .slide: data-background-color="white" -->
 # As I gain wisdom,
-# Am I more **gentle** in **deeds**,
-# or  more **proud** in **words**?
+# Am I more <br/> **gentle** in **deeds**,
+# or  more <br/> **proud** in **words**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
@@ -165,7 +165,8 @@ do not **boast** about it or deny the **truth**.
   + you've believed in a **lie**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ndsRLeQBlsA-dark_clouds.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+
 <span class="ref">15</span>
 Such “wisdom” does not come down from heaven <br/>
 but is **earthly**, **unspiritual**, **demonic**.
@@ -186,7 +187,12 @@ there you find **disorder** and every **evil practice**.
 
 ---
 <!-- .slide: data-background-color="white" -->
-# Have I confused **passion** and **ambition** with **wisdom**? 
+# Have I confused
+# **passion** and **ambition**
+# with **wisdom**? 
+
+>>>
++ who are my role models? 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
@@ -196,7 +202,7 @@ there you find **disorder** and every **evil practice**.
 + **Peacemaking** <span class="ref">(3:17-18)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
 
 <span class="ref">17</span>
 But the wisdom that comes from **heaven** <br/>
@@ -223,7 +229,7 @@ impartial and sincere.
   + **yields** to truth / reason
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
 
 <span class="ref">17</span>
 But the wisdom that comes from heaven <br/>
@@ -273,7 +279,10 @@ reap a **harvest** of righteousness.
 
 ---
 <!-- .slide: data-background-color="white" -->
-# Do I **recognise** the **peace**-makers, the **meek**, the **merciful**?
+# Do I **recognise**
+# the **peace**-makers,
+# the **meek**,
+# the **merciful**?
 
 >>>
 + who do I know who is peaceable? 
@@ -281,6 +290,7 @@ reap a **harvest** of righteousness.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+
 <span class="ref">13</span>
 **Peacemakers** who sow in peace  <br/>
 reap a harvest of **righteousness**.
