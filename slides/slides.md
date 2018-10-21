@@ -8,66 +8,78 @@
 # look like?
 
 >>>
-+ Einstein? Bill Gates? 
-+ long-bearded sage on mountaintop? 
-+ silent patriarch who closes a noisy debate with a single word? 
++ Einstein? Bill Gates?
++ long-bearded sage on mountaintop?
++ silent patriarch who closes a noisy debate with a single word?
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
-## James: **Keep the Faith**
-+ Stands the **Test** <span class="ref">(1:2-12)</span>
-+ Demands a **Change** of Heart <span class="ref">(1:19-25)</span>
-+ Loves **Impartially** <span class="ref">(2:5-9)</span>
-+ **Acts** <span class="ref">(2:15-24)</span>
-+ Tames the **Tongue** <span class="ref">(3:6-10)</span>
-+ Demonstrates **Wisdom** <span class="ref">(3:13-18)</span>
+## [James](#/outline): **Keep the Faith**
++ Stands the **Test** [(1:2-12)](# "ref")
++ Demands a **Change** of Heart [(1:19-25)](# "ref")
++ Loves **Impartially** [(2:5-9)](# "ref")
++ **Acts** [(2:15-24)](# "ref")
++ Tames the **Tongue** [(3:6-10)](# "ref")
++ Demonstrates **Wisdom** [(3:13-18)](# "ref")
 
 ---
-<span class="ref">13</span>
+[13](# "ref")
 Who is **wise** and **understanding** among you?
 
 Let them show it by their good **life**, <br/>
 by **deeds** done in the **humility** <br/>
 that comes from wisdom.
 
+[James 3:13 (NIV) (p.1/4)](# "ref")
+
 ---
-<span class="ref">14</span>
+[14](# "ref")
 But if you harbor bitter **envy** and <br/>
 selfish **ambition** in your hearts, <br/>
 do not **boast** about it or deny the **truth**.
 
-<span class="ref">15</span>
-Such “wisdom” does not come down from heaven <br/>
+[15](# "ref")
+Such “wisdom” does not <br>
+come down from heaven <br/>
 but is **earthly**, unspiritual, **demonic**.
 
-<span class="ref">16</span>
-For where you have envy and selfish ambition, <br/>
-there you find **disorder** and every **evil** practice.
+[James 3:14-15 (NIV) (p.2/4)](# "ref")
 
 ---
-<span class="ref">17</span>
+[16](# "ref")
+For where you have <br>
+envy and selfish ambition, <br/>
+there you find **disorder** <br>
+and every **evil** practice.
+
+[James 3:16 (NIV) (p.3/4)](# "ref")
+
+---
+[17](# "ref")
 But the wisdom that comes from **heaven** <br/>
 is first of all **pure**; then **peace**-loving, <br/>
 **considerate**, **submissive**, <br/>
 full of **mercy** and good **fruit**, <br/>
 **impartial** and **sincere**.
 
-<span class="ref">18</span>
+[18](# "ref")
 **Peacemakers** who sow in peace  <br/>
 reap a **harvest** of righteousness.
+
+[James 3:17-18 (NIV) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> id="outline" class="outline" -->
 ## Faith that Demonstrates Wisdom
-+ **Practise**, not Pretense <span class="ref">(3:13)</span>
-+ Bitter **Passion** <span class="ref">(3:14-16)</span>
-+ **Peacemaking** <span class="ref">(3:17-18)</span>
++ **Practise**, not Pretense [(3:13)](# "ref")
++ Free from Bitter **Passion** [(3:14-16)](# "ref")
++ **Peacemaking** [(3:17-18)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
-
-<span class="ref">13</span>
 Who is **wise** and **understanding** among you?
+
+[James 3:13 (NIV)](# "ref")
 
 >>>
 + *wise*:
@@ -79,17 +91,17 @@ Who is **wise** and **understanding** among you?
 + *understanding* (ἐπιστήμων):
   + put [self, mind] **standing** upon
   + consider, investigate
-+ do you believe yourself to be wise? 
++ do you believe yourself to be wise?
 
 ---
 <!-- .slide: <%= bg("unsplash-rdwkamJlpiU-mist-mtns.jpg") %> -->
-
-<span class="ref">3:1</span>
 Not many of you should become **teachers**, <br/>
 my fellow believers,
 
 because you know that <br/>
 we who **teach** will be judged more **strictly**.
+
+[James 3:1 (NIV)](# "ref")
 
 >>>
 + **pride**
@@ -106,11 +118,11 @@ we who **teach** will be judged more **strictly**.
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
-
-<span class="ref">13</span>
 Let them **show** it by their good **life**, <br/>
 by **deeds** done in the **humility** <br/>
 that comes from wisdom.
+
+[James 3:13 (NIV)](# "ref")
 
 >>>
 + *show*: not show **wisdom**
@@ -134,17 +146,17 @@ that comes from wisdom.
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 ## Faith that Demonstrates Wisdom
-+ **Practise**, not Pretense <span class="ref">(3:13)</span>
-+ Bitter **Passion** <span class="ref">(3:14-16)</span>
-+ **Peacemaking** <span class="ref">(3:17-18)</span>
++ **Practise**, not Pretense [(3:13)](# "ref")
++ Free from Bitter **Passion** [(3:14-16)](# "ref")
++ **Peacemaking** [(3:17-18)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
-
-<span class="ref">14</span>
 But if you harbor bitter **envy** and <br/>
 selfish **ambition** in your hearts, <br/>
 do not **boast** about it or deny the **truth**.
+
+[James 3:14 (NIV)](# "ref")
 
 >>>
 + even the **wise** may have this
@@ -166,14 +178,14 @@ do not **boast** about it or deny the **truth**.
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
-
-<span class="ref">15</span>
 Such “wisdom” does not come down from heaven <br/>
 but is **earthly**, **unspiritual**, **demonic**.
 
-<span class="ref">16</span>
+[16](# "ref")
 For where you have envy and selfish ambition, <br/>
 there you find **disorder** and every **evil practice**.
+
+[James 3:15-16 (NIV)](# "ref")
 
 >>>
 + *earthly*: of **earth** (vs heaven)
@@ -189,30 +201,30 @@ there you find **disorder** and every **evil practice**.
 <!-- .slide: data-background-color="white" -->
 # Have I confused
 # **passion** and **ambition**
-# with **wisdom**? 
+# with **wisdom**?
 
 >>>
-+ who are my role models? 
++ who are my role models?
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 ## Faith that Demonstrates Wisdom
-+ *Practise*, not Pretense <span class="ref">(3:13)</span>
-+ Bitter *Passion* <span class="ref">(3:14-16)</span>
-+ **Peacemaking** <span class="ref">(3:17-18)</span>
++ *Practise*, not Pretense [(3:13)](# "ref")
++ Free from Bitter *Passion* [(3:14-16)](# "ref")
++ **Peacemaking** [(3:17-18)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
-
-<span class="ref">17</span>
 But the wisdom that comes from **heaven** <br/>
 is first of all **pure**; then **peace**-loving, <br/>
 **considerate**, **submissive**, <br/>
 full of mercy and good fruit, <br/>
 impartial and sincere.
 
+[James 3:17 (NIV)](# "ref")
+
 >>>
-+ *comes from above*: 
++ *comes from above*:
   + not virtues to **chase** after
   + but **recognise** God's gift
 + *pure*: **holy**, set apart
@@ -230,13 +242,13 @@ impartial and sincere.
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
-
-<span class="ref">17</span>
 But the wisdom that comes from heaven <br/>
 is first of all *pure*; then *peace-loving*, <br/>
 *considerate*, *submissive*, <br/>
 full of **mercy** and good **fruit**, <br/>
 **impartial** and **sincere**.
+
+[James 3:17 (NIV)](# "ref")
 
 >>>
 + *mercy*:
@@ -254,12 +266,12 @@ full of **mercy** and good **fruit**, <br/>
 
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
-
-<span class="ref">1:5</span>
 If any of you **lacks wisdom**, <br/>
 you should **ask God**, <br/>
 who gives **generously** to all without finding **fault**, <br/>
 and it will be **given** to you.
+
+[James 1:5 (NIV)](# "ref")
 
 >>>
 + wisdom **attainable**?
@@ -267,10 +279,10 @@ and it will be **given** to you.
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
-
-<span class="ref">18</span>
 **Peacemakers** who **sow** in peace  <br/>
 reap a **harvest** of righteousness.
+
+[James 3:18 (NIV)](# "ref")
 
 >>>
 + a **fruit** of righteousness
@@ -285,15 +297,15 @@ reap a **harvest** of righteousness.
 # the **merciful**?
 
 >>>
-+ who do I know who is peaceable? 
++ who do I know who is peaceable?
 + that is true wisdom
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-
-<span class="ref">13</span>
 **Peacemakers** who sow in peace  <br/>
 reap a harvest of **righteousness**.
+
+[James 3:13 (NIV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> class="empty" -->
