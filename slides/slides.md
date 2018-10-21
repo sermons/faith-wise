@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 # Faith that Demonstrates Wisdom
 ## James 3:13-18
 
@@ -13,7 +13,7 @@
 + silent patriarch who closes a noisy debate with a single word? 
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 ## James: **Keep the Faith**
 + Stands the **Test** <span class="ref">(1:2-12)</span>
 + Demands a **Change** of Heart <span class="ref">(1:19-25)</span>
@@ -57,14 +57,14 @@ full of **mercy** and good **fruit**, <br/>
 reap a **harvest** of righteousness.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> id="outline" class="outline" -->
 ## Faith that Demonstrates Wisdom
 + **Practise**, not Pretense <span class="ref">(3:13)</span>
 + Bitter **Passion** <span class="ref">(3:14-16)</span>
 + **Peacemaking** <span class="ref">(3:17-18)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 
 <span class="ref">13</span>
 Who is **wise** and **understanding** among you?
@@ -82,7 +82,7 @@ Who is **wise** and **understanding** among you?
 + do you believe yourself to be wise? 
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
+<!-- .slide: <%= bg("unsplash-rdwkamJlpiU-mist-mtns.jpg") %> -->
 
 <span class="ref">3:1</span>
 Not many of you should become **teachers**, <br/>
@@ -105,7 +105,7 @@ we who **teach** will be judged more **strictly**.
   + true **test** of wisdom:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 
 <span class="ref">13</span>
 Let them **show** it by their good **life**, <br/>
@@ -132,14 +132,14 @@ that comes from wisdom.
 # or  more <br/> **proud** in **words**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 ## Faith that Demonstrates Wisdom
 + **Practise**, not Pretense <span class="ref">(3:13)</span>
 + Bitter **Passion** <span class="ref">(3:14-16)</span>
 + **Peacemaking** <span class="ref">(3:17-18)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
+<!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
 
 <span class="ref">14</span>
 But if you harbor bitter **envy** and <br/>
@@ -165,7 +165,7 @@ do not **boast** about it or deny the **truth**.
   + you've believed in a **lie**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 
 <span class="ref">15</span>
 Such “wisdom” does not come down from heaven <br/>
@@ -195,14 +195,14 @@ there you find **disorder** and every **evil practice**.
 + who are my role models? 
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 ## Faith that Demonstrates Wisdom
 + *Practise*, not Pretense <span class="ref">(3:13)</span>
 + Bitter *Passion* <span class="ref">(3:14-16)</span>
 + **Peacemaking** <span class="ref">(3:17-18)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 
 <span class="ref">17</span>
 But the wisdom that comes from **heaven** <br/>
@@ -229,7 +229,7 @@ impartial and sincere.
   + **yields** to truth / reason
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 
 <span class="ref">17</span>
 But the wisdom that comes from heaven <br/>
@@ -253,7 +253,7 @@ full of **mercy** and good **fruit**, <br/>
   + **hypocrisy**, playing part
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 
 <span class="ref">1:5</span>
 If any of you **lacks wisdom**, <br/>
@@ -266,7 +266,7 @@ and it will be **given** to you.
 + 4 do not have because do not ask
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 
 <span class="ref">18</span>
 **Peacemakers** who **sow** in peace  <br/>
@@ -289,12 +289,12 @@ reap a **harvest** of righteousness.
 + that is true wisdom
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 
 <span class="ref">13</span>
 **Peacemakers** who sow in peace  <br/>
 reap a harvest of **righteousness**.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> class="empty" -->
 
