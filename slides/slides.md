@@ -74,9 +74,9 @@ reap a **harvest** of righteousness.
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> id="outline" class="outline" -->
-## Faith that Demonstrates Wisdom
+## Faith that <br> Demonstrates Wisdom
 + **Practise**, not Pretense [(3:13)](# "ref")
-+ Free from Bitter **Passion** [(3:14-16)](# "ref")
++ Free of Bitter **Passion** [(3:14-16)](# "ref")
 + **Peacemaking** [(3:17-18)](# "ref")
 
 [Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
@@ -148,15 +148,13 @@ that comes from wisdom.
 
 ---
 <!-- .slide: data-background-color="white" -->
-# As I gain wisdom,
-# Am I more <br/> **gentle** in **deeds**,
-# or  more <br/> **proud** in **words**?
+# As I gain wisdom, <br> am I more <br/> **gentle** in **deeds**, or <br> **proud** in **words**?
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-## Faith that Demonstrates Wisdom
+## Faith that <br> Demonstrates Wisdom
 + **Practise**, not Pretense [(3:13)](# "ref")
-+ Free from Bitter **Passion** [(3:14-16)](# "ref")
++ Free of Bitter **Passion** [(3:14-16)](# "ref")
 + **Peacemaking** [(3:17-18)](# "ref")
 
 [Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
@@ -189,11 +187,13 @@ do not **boast** about it or deny the **truth**.
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
-Such “wisdom” does not come down from heaven <br/>
+Such “wisdom” does not <br>
+come down from heaven <br/>
 but is **earthly**, **unspiritual**, **demonic**.
 
 [16](# "ref")
-For where you have envy and selfish ambition, <br/>
+For where you have <br>
+**envy** and selfish **ambition**, <br/>
 there you find **disorder** and every **evil practice**.
 
 [James 3:15-16 (NIV)](# "ref")
@@ -220,9 +220,9 @@ there you find **disorder** and every **evil practice**.
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-## Faith that Demonstrates Wisdom
+## Faith that <br> Demonstrates Wisdom
 + *Practise*, not Pretense [(3:13)](# "ref")
-+ Free from Bitter *Passion* [(3:14-16)](# "ref")
++ Free of Bitter *Passion* [(3:14-16)](# "ref")
 + **Peacemaking** [(3:17-18)](# "ref")
 
 [Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
@@ -284,7 +284,8 @@ full of **mercy** and good **fruit**, <br/>
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 If any of you **lacks wisdom**, <br/>
 you should **ask God**, <br/>
-who gives **generously** to all without finding **fault**, <br/>
+who gives **generously** to all <br>
+without finding **fault**, <br/>
 and it will be **given** to you.
 
 [James 1:5 (NIV)](# "ref")
@@ -309,10 +310,7 @@ reap a **harvest** of righteousness.
 
 ---
 <!-- .slide: data-background-color="white" -->
-# Do I **recognise**
-# the **peace**-makers,
-# the **meek**,
-# the **merciful**?
+# Do I **recognise** <br> the **peace**-makers, <br> the **meek**, and <br> the **merciful**?
 
 >>>
 + who do I know who is peaceable?
