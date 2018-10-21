@@ -244,13 +244,14 @@ impartial and sincere.
 + *comes from above*:
   + not virtues to **chase** after
   + but **recognise** God's gift
++ 8 attributes in 4 couplets
 + *pure*: **holy**, set apart
   + what does **wisdom** have to do with **holiness**?
 + *peace-loving*: peaceful
   + *shalom*: right, whole **relationship**
   + w/God, w/others
 + *considerate* (ἐπιεικής): **meek**
-  + kind, clemency
+  + kind, clemency, compassion
   + of **judge** / king / in power
   + lenience to **letter** of law
   + to uphold **spirit** of law
@@ -260,7 +261,7 @@ impartial and sincere.
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 But the wisdom that comes from heaven <br/>
-is first of all *pure*; then *peace-loving*, <br/>
+is first of all *pure*; then *peace*-loving, <br/>
 *considerate*, *submissive*, <br/>
 full of **mercy** and good **fruit**, <br/>
 **impartial** and **sincere**.
