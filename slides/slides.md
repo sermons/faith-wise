@@ -255,7 +255,7 @@ impartial and sincere.
   + of **judge** / king / in power
   + lenience to **letter** of law
   + to uphold **spirit** of law
-+ *submissive* (εὐπειθής): easily persuaded
++ *submissive* (εὐπειθής): easily **persuaded**
   + **yields** to truth / reason
 
 ---
@@ -286,6 +286,13 @@ full of **mercy** and good **fruit**, <br/>
   + (but not **2:1** favouritism)
 + *sincere* (ἀνυπόκριτος): w/o:
   + **hypocrisy**, playing part
++ e.g., **responding** w/wisdom to ungodly words
+  + e.g., FIL **jokes** at others' expense
+  + wants us to **laugh** along
+  + JJ: "that's not funny", "**crazy** talk"
+  + &rArr; respond w/ **compassion**
+  + **worth** from Creator, not bc push down others
++ "God, give me **wisdom** how to respond"
 
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
@@ -314,6 +321,7 @@ reap a **harvest** of righteousness.
 + a **fruit** of righteousness
   + in peace is **sown**
   + by those who **do** peace
++ e.g., TWU custodian Al+wife
 
 ---
 <!-- .slide: data-background-color="white" -->
