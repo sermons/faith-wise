@@ -74,10 +74,10 @@ reap a **harvest** of righteousness.
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> id="outline" class="outline" -->
-## Faith that <br> Demonstrates Wisdom
-+ **Practise**, not Pretense [(3:13)](# "ref")
-+ Free of Bitter **Passion** [(3:14-16)](# "ref")
-+ **Peacemaking** [(3:17-18)](# "ref")
+## [James 3b:](# "ref") Faith that <br> Demonstrates Wisdom
++ **Practise**, not Pretense [(v13)](# "ref")
++ Free of Bitter **Passion** [(v14-16)](# "ref")
++ **Peacemaking** [(v17-18)](# "ref")
 
 [Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
@@ -151,11 +151,11 @@ that comes from wisdom.
 # As I gain wisdom, <br> am I more <br/> **gentle** in **deeds**, or <br> **proud** in **words**?
 
 ---
-<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-## Faith that <br> Demonstrates Wisdom
-+ **Practise**, not Pretense [(3:13)](# "ref")
-+ Free of Bitter **Passion** [(3:14-16)](# "ref")
-+ **Peacemaking** [(3:17-18)](# "ref")
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> class="outline" -->
+## [James 3b:](# "ref") Faith that <br> Demonstrates Wisdom
++ Practise, not Pretense [(v13)](# "ref")
++ **Free of Bitter Passion** [(v14-16)](# "ref")
++ Peacemaking [(v17-18)](# "ref")
 
 [Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 ---
@@ -219,11 +219,11 @@ there you find **disorder** and every **evil practice**.
 + who are my role models?
 
 ---
-<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-## Faith that <br> Demonstrates Wisdom
-+ *Practise*, not Pretense [(3:13)](# "ref")
-+ Free of Bitter *Passion* [(3:14-16)](# "ref")
-+ **Peacemaking** [(3:17-18)](# "ref")
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> class="outline" -->
+## [James 3b:](# "ref") Faith that <br> Demonstrates Wisdom
++ Practise, not Pretense [(v13)](# "ref")
++ Free of Bitter Passion [(v14-16)](# "ref")
++ **Peacemaking** [(v17-18)](# "ref")
 
 [Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
