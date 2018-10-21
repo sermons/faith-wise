@@ -269,6 +269,8 @@ full of **mercy** and good **fruit**, <br/>
 [Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
++ what is **abundant** in wisdom
+  + what is **absent** in wisdom
 + *mercy*:
   + **emotion** of compassion, sympathy
   + manifest as **action**:
@@ -279,6 +281,8 @@ full of **mercy** and good **fruit**, <br/>
 + *impartial* (ἀδιάκριτος): w/o:
   + separation, distinction, **prejudice**
   + **wavering**, ambiguity
+  + cf **1:6** ask God w/o doubting
+  + (but not **2:1** favouritism)
 + *sincere* (ἀνυπόκριτος): w/o:
   + **hypocrisy**, playing part
 
