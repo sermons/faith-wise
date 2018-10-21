@@ -2,6 +2,8 @@
 # Faith that Demonstrates Wisdom
 ## James 3:13-18
 
+[Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
+
 ---
 <!-- .slide: data-background-color="white" -->
 # What does **wisdom**
@@ -21,6 +23,8 @@
 + **Acts** [(2:15-24)](# "ref")
 + Tames the **Tongue** [(3:6-10)](# "ref")
 + Demonstrates **Wisdom** [(3:13-18)](# "ref")
+
+[Plattenkogel, Austria. Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
 
 ---
 [13](# "ref")
@@ -75,11 +79,14 @@ reap a **harvest** of righteousness.
 + Free from Bitter **Passion** [(3:14-16)](# "ref")
 + **Peacemaking** [(3:17-18)](# "ref")
 
+[Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
+
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 Who is **wise** and **understanding** among you?
 
 [James 3:13 (NIV)](# "ref")
+[Ju On](https://unsplash.com/photos/e6XsI7qqvAA "caption")
 
 >>>
 + *wise*:
@@ -102,6 +109,7 @@ because you know that <br/>
 we who **teach** will be judged more **strictly**.
 
 [James 3:1 (NIV)](# "ref")
+[Savoie, France. Thomas Tixtaaz](https://unsplash.com/photos/rdwkamJlpiU "caption")
 
 >>>
 + **pride**
@@ -123,6 +131,7 @@ by **deeds** done in the **humility** <br/>
 that comes from wisdom.
 
 [James 3:13 (NIV)](# "ref")
+[Ju On](https://unsplash.com/photos/e6XsI7qqvAA "caption")
 
 >>>
 + *show*: not show **wisdom**
@@ -150,6 +159,7 @@ that comes from wisdom.
 + Free from Bitter **Passion** [(3:14-16)](# "ref")
 + **Peacemaking** [(3:17-18)](# "ref")
 
+[Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 ---
 <!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
 But if you harbor bitter **envy** and <br/>
@@ -157,6 +167,7 @@ selfish **ambition** in your hearts, <br/>
 do not **boast** about it or deny the **truth**.
 
 [James 3:14 (NIV)](# "ref")
+[Janko Ferlič](https://unsplash.com/photos/ACAK6F9mzgs "caption")
 
 >>>
 + even the **wise** may have this
@@ -186,6 +197,7 @@ For where you have envy and selfish ambition, <br/>
 there you find **disorder** and every **evil practice**.
 
 [James 3:15-16 (NIV)](# "ref")
+[Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
 + *earthly*: of **earth** (vs heaven)
@@ -213,6 +225,8 @@ there you find **disorder** and every **evil practice**.
 + Free from Bitter *Passion* [(3:14-16)](# "ref")
 + **Peacemaking** [(3:17-18)](# "ref")
 
+[Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
+
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 But the wisdom that comes from **heaven** <br/>
@@ -222,6 +236,7 @@ full of mercy and good fruit, <br/>
 impartial and sincere.
 
 [James 3:17 (NIV)](# "ref")
+[Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
 + *comes from above*:
@@ -249,6 +264,7 @@ full of **mercy** and good **fruit**, <br/>
 **impartial** and **sincere**.
 
 [James 3:17 (NIV)](# "ref")
+[Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
 + *mercy*:
@@ -272,6 +288,7 @@ who gives **generously** to all without finding **fault**, <br/>
 and it will be **given** to you.
 
 [James 1:5 (NIV)](# "ref")
+[&copy; 2010 @bigbirdz, CC-BY 2.0](https://www.flickr.com/photos/bigbirdz/5024081279 "caption")
 
 >>>
 + wisdom **attainable**?
@@ -283,6 +300,7 @@ and it will be **given** to you.
 reap a **harvest** of righteousness.
 
 [James 3:18 (NIV)](# "ref")
+[Ju On](https://unsplash.com/photos/e6XsI7qqvAA "caption")
 
 >>>
 + a **fruit** of righteousness
@@ -306,6 +324,7 @@ reap a **harvest** of righteousness.
 reap a harvest of **righteousness**.
 
 [James 3:13 (NIV)](# "ref")
+[Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> class="empty" -->
