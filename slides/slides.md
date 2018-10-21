@@ -180,8 +180,8 @@ do not **boast** about it or deny the **truth**.
   + but misplaced **priorities**:
   + exchange **higher** things
   + for base profit
-+ *boast*: bc wrong **values**
-  + *deny*: **lie** against
++ *boast*: see as **superior**
+  + *deny*: **lie**, incorrect
 + if you think this is **wisdom**,
   + you've believed in a **lie**:
 
@@ -200,11 +200,13 @@ there you find **disorder** and every **evil practice**.
 [Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
++ the **source**:
 + *earthly*: of **earth** (vs heaven)
 + *unspiritual*: **psyche**, life
   + common with animals
   +  of **nature**, instinct
 + *demonic*: of **demons**
++ the **consequence**:
 + *disorder*: **instability**
   + no moral **compass**
 + *evil practise*: **deeds**
