@@ -11,7 +11,7 @@
 
 >>>
 + Einstein? Bill Gates?
-+ long-bearded sage on mountaintop?
++ long-bearded sage on mountaintop? 
 + silent patriarch who closes a noisy debate with a single word?
 
 ---
