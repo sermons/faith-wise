@@ -55,6 +55,7 @@ class BST:
       else:               # found it!
         return cur
 ```
+<!-- .element: data-line-numbers="14-17" -->
 
 ******
 <!-- .slide: data-background="white" -->
@@ -75,9 +76,9 @@ class BST:
 <!-- HTML in separate paragraph -->
 <div class="imgbox"><div>
 
-+ Yay for **multi-col** layout!
++ **Multi-col** layout!
 + 1/3 width for text
-+ use `imgbox` div
++ `imgbox` div
 
 </div>
 <div style="flex:2">
